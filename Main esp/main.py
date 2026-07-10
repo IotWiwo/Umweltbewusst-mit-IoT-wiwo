@@ -10,13 +10,13 @@ import urequests as requests
 # -----------------------------
 button = Pin(22, Pin.IN, Pin.PULL_UP)
 
-SSID = "Tim"
-PASSWORD = "Wlan1234Hotspot"
+SSID = "H"
+PASSWORD = "PW"
 
 AP_SSID = "mainesp"
 AP_PASSWORD = "esp32ap1"
 
-BLYNK_AUTH = "Qy7NNe7keW3_bgbvWFnX5Pb3B_iAPQLH"
+BLYNK_AUTH = "TOKEN"
 
 BLYNK_INTERVAL = 5000 
 
